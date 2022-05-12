@@ -1,4 +1,4 @@
-Condition,Well,Image,Yeast,Hyphae,Intermediate
+,Condition,Well,Image,Yeast,Hyphae,Intermediate
 1,YPD 10^3,1,1,1,3,1
 2,YPD 10^3,1,2,2,2,0
 3,YPD 10^3,1,3,6,3,0
@@ -89,23 +89,33 @@ Condition,Well,Image,Yeast,Hyphae,Intermediate
 88,50% Unfiltered,2,3,79,0,0
 89,50% Unfiltered,2,4,144,2,1
 90,50% Unfiltered,2,5,76,0,0
-91,50% Boiled ,1,1,20,4,6
-92,50% Boiled ,1,2,27,6,1
-93,50% Boiled ,1,3,7,2,0
-94,50% Boiled ,1,4,11,0,0
-95,50% Boiled ,1,5,6,3,3
-96,50% Boiled ,2,1,25,1,0
-97,50% Boiled ,2,2,9,0,1
-98,50% Boiled ,2,3,11,3,0
-99,50% Boiled ,2,4,40,1,2
-100,50% Boiled ,2,5,12,2,0
-101,50% Boiled ,3,1,16,2,0
-102,50% Boiled ,3,2,36,4,0
-103,50% Boiled ,3,3,36,5,1
-104,50% Boiled ,3,4,17,4,4
-105,50% Boiled ,3,5,12,3,3
-106,50% Boiled ,4,1,50,0,1
-107,50% Boiled ,4,2,16,2,1
-108,50% Boiled ,4,3,10,5,0
-109,50% Boiled ,4,4,20,2,0
-110,50% Boiled ,4,5,49,4,2
+91,50% Unfiltered,3,1,59,2,0
+92,50% Unfiltered,3,2,53,1,0
+93,50% Unfiltered,3,3,54,0,0
+94,50% Unfiltered,3,4,50,0,0
+95,50% Unfiltered,3,5,96,0,1
+96,50% Unfiltered,4,1,53,2,3
+97,50% Unfiltered,4,2,70,0,5
+98,50% Unfiltered,4,3,79,0,0
+99,50% Unfiltered,4,4,137,2,1
+100,50% Unfiltered,4,5,76,0,0
+101,50% Boiled ,1,1,20,4,6
+102,50% Boiled ,1,2,27,6,1
+103,50% Boiled ,1,3,7,2,0
+104,50% Boiled ,1,4,11,0,0
+105,50% Boiled ,1,5,6,3,3
+106,50% Boiled ,2,1,25,1,0
+107,50% Boiled ,2,2,9,0,1
+108,50% Boiled ,2,3,11,3,0
+109,50% Boiled ,2,4,40,1,2
+110,50% Boiled ,2,5,12,2,0
+111,50% Boiled ,3,1,16,2,0
+112,50% Boiled ,3,2,36,4,0
+113,50% Boiled ,3,3,36,5,1
+114,50% Boiled ,3,4,17,4,4
+115,50% Boiled ,3,5,12,3,3
+116,50% Boiled ,4,1,50,0,1
+117,50% Boiled ,4,2,16,2,1
+118,50% Boiled ,4,3,10,5,0
+119,50% Boiled ,4,4,20,2,0
+120,50% Boiled ,4,5,49,4,2
